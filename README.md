@@ -19,4 +19,3 @@ Links to projects:
 
 ## Mitigation
 ### [Mitigation Github](https://github.com/agee6/Mitigation)
->>>>>>> gh-pages
