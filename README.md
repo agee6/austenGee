@@ -14,7 +14,7 @@ Links to projects:
 ### [Caging Cage Github](https://github.com/agee6/CagingCage)
 
 ## Austen Record
-### [Austen Record Github](https://github.com/agee6/ActiveRecordLite)
+### [Austen Record Github](https://github.com/agee6/AustenRecord)
 
 ## Mitigation
 ### [Mitigation Github](https://github.com/agee6/Mitigation)
