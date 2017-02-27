@@ -1,7 +1,7 @@
 
 # [My Personal Site](austengee.com)
 
-This is a bootstrap site that I used from my personal site. on it you can see all of my other projects, as well as links to my
+This is a bootstrap site that I used from my personal site. Here you can find many of my other projects, as well as links to my
 resume and Linked in profiles.
 
 Links to projects:
